@@ -21,17 +21,34 @@ The Inclusive Workforce Education Toolkit translates this research into practica
 - **Research Basis:** Summaries of methods and key findings  
 
 ## How to Use
+## Access the Toolkit
+
+Choose the format that works best for you:
+
+-  **[Visual Toolkit](Toolkit-for-Inclusive-Workforce-Education.pdf)**  
+  A designed, presentation-style version for quick browsing and sharing.
+
+-  **[Full Markdown Toolkit (Combined Version)](Toolkit-for-Inclusive-Workforce-Education.md)**  
+  Includes all sections (A–E) formatted for accessibility and easy adaptation.
+
+---
+
+Both versions contain the same content derived from the dissertation *Transforming Adult Education: Practical Tools for Workforce Readiness and Inclusion* (Tucker-Stanojković, 2025), shared under a [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+
 All materials are shared under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
 You are welcome to copy, remix, and adapt these materials with attribution to the author.
 
 ## Citation
+
 If referencing this toolkit or associated resources, please cite:
 
 > Tucker-Stanojković, A. M. (2025). *Transforming Adult Education: Practical Tools for Workforce Readiness and Inclusion* [Doctoral dissertation, Northwestern State University of Louisiana]. Inclusive Workforce Education Toolkit. https://github.com/itsmealli/inclusive-ed-tools
 
 ## License
+
 © 2025 Alli M. Tucker-Stanojković, Ed.D.  
 Licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
 
 ## Project Site (optional)
 When GitHub Pages is enabled, this toolkit will be viewable at:  
